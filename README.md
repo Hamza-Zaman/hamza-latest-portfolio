@@ -1,11 +1,11 @@
 # Hamza_Portfolio
 
 
-![Netflix Project Cover](https://github.com/Hamza-Zaman/Hamza_Portfolio/blob/c5a377fd86a28c84d39d452c409184518eb8d09a/netflix_project_cover.png)
+![Screen Time Dashboard](https://github.com/Hamza-Zaman/hamza-latest-portfolio/blob/main/1-%20My%20Screen%20Time%20Dashboard%20Analysis/screen_time_%20dashboard_%20cover.png)
 
 
 
-![dfdf](https://github.com/Hamza-Zaman/Hamza_Portfolio/blob/main/my_screen_time_dashboard_analysis/plots/Average%20Hours%20Spent%20On%20Social%20Media%20Apps.jpeg)
+![LinkedIn Connections Analysis](https://github.com/Hamza-Zaman/hamza-latest-portfolio/blob/main/2-%20My%202500%2B%20LinkedIn%20Connections%20Analysis/linkedin_connections_analysis_cover.png)
 
-![Screen Time Dashboard Cover](https://github.com/Hamza-Zaman/hamza-latest-portfolio/blob/main/1-%20My%20Screen%20Time%20Dashboard%20Analysis/screen_time_%20dashboard_%20cover.png)
+![Netflix Project Cover](https://github.com/Hamza-Zaman/hamza-latest-portfolio/blob/main/3-%20Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office/netflix_project_cover.png)
 
