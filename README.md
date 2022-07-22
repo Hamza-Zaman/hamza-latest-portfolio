@@ -1,2 +1,11 @@
-# hamza-latest-portfolio
-This GitHub repository contains a collection of data science projects that I have completed. The projects are organized into folders by topic, and each project has its own directory. Within each project directory, you will find the code, data, and any other necessary files. There is also a README file that provides an overview of the project. These projects showcase my skills in data wrangling, exploratory data analysis, data visualization and machine learning. In particular, they demonstrate my ability to take raw data and turn it into insights that can be used to solve real-world problems. I hope that these projects will give you a better understanding of my skills and experience as a data scientist. Thank you for taking the time to view my portfolio!
+# Hamza_Portfolio
+
+
+![Netflix Project Cover](https://github.com/Hamza-Zaman/Hamza_Portfolio/blob/c5a377fd86a28c84d39d452c409184518eb8d09a/netflix_project_cover.png)
+
+
+
+![dfdf](https://github.com/Hamza-Zaman/Hamza_Portfolio/blob/main/my_screen_time_dashboard_analysis/plots/Average%20Hours%20Spent%20On%20Social%20Media%20Apps.jpeg)
+
+![Screen Time Dashboard Cover](https://github.com/Hamza-Zaman/hamza-latest-portfolio/blob/main/1-%20My%20Screen%20Time%20Dashboard%20Analysis/screen_time_%20dashboard_%20cover.png)
+
